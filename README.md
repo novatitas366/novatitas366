@@ -1,6 +1,6 @@
 # 💫 About Me:
 Programų inžinerijos studentas | Nuolat tobulėjantis programuotojas
-Esu kruopštus ir atidus detalėms programų inžinerijos studentas, turintis stiprią motyvaciją mokytis ir gilinti savo žinias IT srityje. Nuolat siekiu tobulėti, domiuosi naujausiomis technologijomis ir jų pritaikymu praktikoje..<br>
+Esu kruopštus ir atidus detalėms programų inžinerijos studentas, turintis stiprią motyvaciją mokytis ir gilinti savo žinias IT srityje. Nuolat siekiu tobulėti, domiuosi naujausiomis technologijomis ir jų pritaikymu praktikoje.<br>
 
 
 ## 🌐 Socials:
