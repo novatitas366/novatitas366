@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on a Java rock paper scissors type game using different data structures.<br>I'm currently learning java and rust programming languages.<br>
+Programų inžinerijos studentas | Nuolat tobulėjantis programuotojas
+Esu kruopštus ir atidus detalėms programų inžinerijos studentas, turintis stiprią motyvaciją mokytis ir gilinti savo žinias IT srityje. Nuolat siekiu tobulėti, domiuosi naujausiomis technologijomis ir jų pritaikymu praktikoje..<br>
 
 
 ## 🌐 Socials:
